@@ -9,7 +9,7 @@ build-backend = "hatchling.build"
 # Project metadata
 [project]
 name = "mikemcka_epi_models"
-version = "0.1.0"
+dynamic = ["version"]
 
 # A simple summary of the project
 description = "My wonderful Python package"
