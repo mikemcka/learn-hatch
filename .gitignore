@@ -1,3 +1,6 @@
+#version file
+src/mikemcka_epi_models/_version.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
